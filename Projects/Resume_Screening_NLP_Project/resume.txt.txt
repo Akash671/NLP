@@ -1,0 +1,48 @@
+ HCLTech| Software Engineer(2.10 years) | Noida
+ Jan’22- Present
+ ● Developedandimplemented machine learning algorithms for dynamic resource allocation, optimization, and network slicing
+ in Keysight 5G networks (achieving 40% higher throughput and 20% lower latency).
+ ● 5GNetworkLogs:usedNLPtechniques to parse and interpret network logs to identify patterns, anomalies, and potential
+ security threats. This can help automate troubleshooting and improve network security.
+ ● Analyzednetworkconditions and user demands to improve resource allocation strategies.
+ ● Preprocessed data, engineered features, and handled missing values for model training.
+ CETPA InfoTech| Machine Learning Intern| Noida
+ ● workedonaprojectforcustomersegmentation.
+ ● Visualizedgenderandagedistributionandthenanalyzedtheirincomeandspendingscores.
+ ● K-meansclustering,hierarchicalclustering, andDBSCANclusteringwereused.
+ IIT KHARAGPUR| Machine Learning Training| Virtual
+ ● Appliedmachinelearning principles to real-world problems through hands-on projects.
+ ● Utilized popular machine learning libraries, including scikit-learn.
+ ● Collaborated with peers and expert instructors to deepen understanding of machine learning concepts.
+ Projects | Academic project
+ Jul’21- Dec’21
+ May’20- Jul’20
+ Age-Gender Recognition Model
+ Python, TensorFlow, Keras, CNN, Matplotlib, sci-kit-learn
+ ● 1.Classified Age into 9 Categories with an accuracy of 75.1% and 1-off accuracy of 91.9%.
+ ● 2.Classified Gender in 2 Categories with an accuracy of 92.9%, it used VGG-16 CNN architecture as the backbone.
+ ● 3.DeployedontheMallCCTVcamerasystem, impacting the sales and marketing industry, and 1000’s indirectly
+ Covid-19 Test Classification | github
+ Jan’22
+ May’20
+ Machine Learning, Python
+ ● Developedamachinelearning model using logistic regression to classify COVID-19 infections based on patient symptoms.
+ ● UsedtheLogistic Regression ML algorithm. Achieved 98% accuracy in classifying COVID-19 infections.
+ Apple Stock Price Prediction and Forecasting
+ Python, Machine Learning & Deep Learning
+ Mar’20
+ ● GotthedatafromTingoAPI. Created a stacked LSTM RNN model to predict the company's stock price for the next 30 days by
+ providing a time step of the previous 100 days. Got a test RMSE equal to 239.6.
+ Education
+ Moradabad Institute of Technology(MIT), UP, India
+ B.Tech Computer Science & Engineering, CGPA: 8.5/10
+ Coursework: Python, C, Machine Learning, Mathematics, Data Structure, Algorithms, Computer Network
+ Skills
+ May’18- Jul’22
+ ● ProgrammingLanguages:Python(expert),C(basic),C++(basic)
+ ● DataScienceLibraries:NumPy,Pandas,Scikit-learn,TensorFlow,Pytorch(basic), Keras
+ ● MachineLearning:Regression,Classification,Clustering, regression, Instance-based learning, Decision trees, Bayesian statistics,
+ clustering, neural, networks, ensemble methods, Deep Learning (CNNs, RNNs, LSTMs), Reinforcement Learning
+ ● LargeLanguageModels(LLMs):Familiarwitharchitectures,capabilities, and limitations of LLMs, e.g., GPT-3, Llama 2,
+ ● Frameworks:TensorFlow,NLTK,Scikit-learn
+ ● DataHandling:Datacleaning,normalization,f
